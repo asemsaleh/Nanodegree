@@ -1,6 +1,7 @@
 AirBnB-Project-Udacity
 The following project has been created as part of the Udacity Data Science Nanodegree https://www.udacity.com/course/data-scientist-nanodegree--nd025
-
+I coulod acjieve that as my first project through getting help from Kaggle challange and udacity course. Also the zip file inculde all the files abd the data as well.
+Listings, reviews and calendar as well. 
 Motivation:
 The project involved gathering the data, dealing with missing values and categorical variables and analysis to answer 3 key questions:
 
